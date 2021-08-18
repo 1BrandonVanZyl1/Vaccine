@@ -6,7 +6,7 @@ age =input("Age: ")
 province=input ("Province: ")
 
 
-if(age > 30 ):
+if(int(age) > 30 ):
     print("You are legible for the vaccine!")
 
 else:
