@@ -13,7 +13,3 @@ else:
     print("You do not qualify for the vaccine!")
 
 
-#These are the changes for the pr
-
-
-#new commit to show sir new branch for sir
