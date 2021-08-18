@@ -7,7 +7,10 @@ province=input ("Province: ")
 
 
 if(age > 30 ):
-    print("You are legible for the vaccine!.......")
+    print("You are legible for the vaccine!")
 
 else:
     print("You do not qualify for the vaccine!")
+
+
+#These are the changes for the pr
